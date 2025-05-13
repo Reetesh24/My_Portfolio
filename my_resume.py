@@ -24,7 +24,7 @@ with st.sidebar:
     st.write("📞 Phone No.: 9667905519")
     st.markdown('‍🎨 Behance Profile: ''[Click Here](https://www.behance.net/reeteshshukla1)')
 
-st.header(":blue[Reetesh Kumar Shukla :man:]", divider="gray")
+st.header(":blue[Reetesh Kumar Shukla]", divider="gray")
 st.write("Welcome to my profile here you can see my Adobe Photoshop works.")
 st.write("\n")
 st.write("View My Work")
