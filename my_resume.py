@@ -21,7 +21,7 @@ with st.sidebar:
     st.write("\n")
     st.subheader(":green[Contact Info]")
     st.write(":email: Email ID: "'[reeteshsnshukla@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTNmrFqSHksCBpvTxMpQVXlRcWDgBpfJBJsfpflRTZFXDPvqtnKrCBqpfgnjRXmbDmScl)')
-    st.write("📞 Phone No.: 966790xxxx")
+    st.write("📞 Phone No.: 9667905519")
     st.markdown('‍🎨 Behance Profile: ''[Click Here](https://www.behance.net/reeteshshukla1)')
 
 st.header(":blue[Reetesh Kumar Shukla :man:]", divider="gray")
