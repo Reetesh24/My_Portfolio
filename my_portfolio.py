@@ -5,7 +5,7 @@ img1 = "./Assests/Where Love Begins (A Movie Poster).jpg"
 img2 = "./Assests/Horror Movie Poster (Night Full Of Mystery).png"
 img3 = "./Assests/Thumbnail For Youtube.png"
 img4 = "./Assests/I WIsh I Could Tell Her Main file.png"
-img5 = "./Assests/Wish We HAd Never Met Each Other 4.jpg"
+img5 = "./Assests/Wish We HAd Never Met Each Other (Main File).jpg"
 col1, col2 = st.columns(2)
 # with col1:
 #     st.image(my_image, width= 100)
